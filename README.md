@@ -19,6 +19,4 @@ Im big on self development. I try to be better everyday. I try to understand my 
 
 A good quote from Tony Robbins:
 
-```bash
-"I believe life is constantly testing us for our level of commitment, and life's greatest rewards are reserved for those who demonstrate a never-ending commitment to act until they achieve. This level of resolve can move mountains, but it must be constant and consistent."
-```
+> "I believe life is constantly testing us for our level of commitment, and life's greatest rewards are reserved for those who demonstrate a never-ending commitment to act until they achieve. This level of resolve can move mountains, but it must be constant and consistent."
