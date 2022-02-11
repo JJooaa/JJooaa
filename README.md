@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi fellow programmers 👋
+## I'm Joa and I like to code React 💙
 
-<!--
-**JJooaa/JJooaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📅 Started coding late 2019 with Python (learned the syntax, didn't like it)
+- ➡️ In Summer 2020 I decided to try Web Development and started to learn (Html, Css, Javascript, React) at [CodeCademy](https://www.codecademy.com/)
+- ➡️ In January 2021 I started at Digitalents Academy as a intern where I developed my Front end development skills (6 months)
+- ➡️ Currently I work at Digitalents Academy as an assistant teacher. I guess I was a good dude which resulted in a job offer after I had finished my intership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- I teach people to code.
+- I code my own projects everyday
+- I workout daily
+- I get my beauty sleep (9.5 hours)
+
+## Self Development
+
+Im big on self development. I try to be better everyday. I try to understand my mind more and more everyday.
+
+A good quote from Tony Robbins:
+
+```bash
+"I believe life is constantly testing us for our level of commitment, and life's greatest rewards are reserved for those who demonstrate a never-ending commitment to act until they achieve. This level of resolve can move mountains, but it must be constant and consistent."
+```
