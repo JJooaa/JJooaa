@@ -7,13 +7,15 @@
 
 ## Skills
 ```bash
-- React, Javascript, HTML, CSS, Python
+- ["React", "Javascript", "HTML", "CSS", "Python"]  
 ```
-## Currently
-- I teach people to code.
+## What I do 
+```bash
+- I assist people in their beginning journey 
 - I code my own projects everyday
 - I workout daily
 - I get my beauty sleep (9.5 hours)
+```
 
 Im big on self development. I try to be better everyday. I try to understand my mind more and more everyday.
 A good quote from Tony Robbins:
