@@ -5,6 +5,10 @@
 - ➡️ In January 2021 I started at Digitalents Academy as a intern where I developed my Front end development skills (6 months)
 - ➡️ Currently I work at Digitalents Academy as an assistant teacher. I guess I was a good dude which resulted in a job offer after I had finished my intership.
 
+## Skills
+```bash
+- React, Javascript, HTML, CSS, Python
+```
 ## Currently
 - I teach people to code.
 - I code my own projects everyday
