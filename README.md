@@ -1,6 +1,4 @@
-# Hi fellow programmers 👋
-## I'm Joa and I like to code React 💙
-
+# I'm Joa and I like to code React 👋 💙
 
 - 📅 Started coding late 2019 with Python (learned the syntax, didn't like it)
 - ➡️ In Summer 2020 I decided to try Web Development and started to learn (Html, Css, Javascript, React) at [CodeCademy](https://www.codecademy.com/)
@@ -13,10 +11,7 @@
 - I workout daily
 - I get my beauty sleep (9.5 hours)
 
-## Self Development
-
 Im big on self development. I try to be better everyday. I try to understand my mind more and more everyday.
-
 A good quote from Tony Robbins:
 
 > "I believe life is constantly testing us for our level of commitment, and life's greatest rewards are reserved for those who demonstrate a never-ending commitment to act until they achieve. This level of resolve can move mountains, but it must be constant and consistent."
