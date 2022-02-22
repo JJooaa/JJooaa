@@ -9,6 +9,13 @@
 ```bash
 - ["React", "Javascript", "HTML", "CSS", "Python"]  
 ```
+
+## Things I'm currently learning
+- Redux
+- Next.js
+- Sass
+- Firebase
+
 ## What I do 
 ```bash
 - I assist people in their beginning journey 
