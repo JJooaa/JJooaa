@@ -11,10 +11,12 @@
 ```
 
 ## Things I'm currently learning
-- Redux
-- Next.js
-- Sass
-- Firebase
+- React Redux / Redux Toolkit ✔️
+- Next.js ✔️
+- NextAuth ✔️
+- Sass 👷
+- Firebase 
+- TailwindCSS 👷
 
 ## What I do 
 ```bash
