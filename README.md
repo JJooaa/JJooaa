@@ -6,9 +6,9 @@
 - ➡️ Currently I work at Digitalents Academy as an assistant teacher. I guess I was a good dude which resulted in a job offer after I had finished my intership.
 
 ## Skills
-```bash
-- ["React", "Javascript", "HTML", "CSS", "Python"]  
-```
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+</div>
 
 ## Things I'm currently learning
 - React Redux / Redux Toolkit ✔️
