@@ -6,7 +6,7 @@
 - ➡️ Currently I work at Digitalents Academy as an assistant teacher. I guess I was a good dude which resulted in a job offer after I had finished my intership.
 
 ## Skills
-<div style={{backgroundColor: "white"}}>
+<div color="white">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40" />
