@@ -32,17 +32,11 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </div>
  </div>
-## Things I'm currently learning
-- React Redux / Redux Toolkit ✔️
-- Next.js ✔️
-- NextAuth ✔️
-- Sass 👷
-- Firebase 
-- TailwindCSS 👷
+
 
 ## What I do 
 ```bash
-- I assist people in their beginning journey 
+- I assist/teach people in their beginning coding journey
 - I code my own projects everyday
 - I workout daily
 - I get my beauty sleep (9.5 hours)
