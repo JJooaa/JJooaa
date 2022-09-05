@@ -36,7 +36,7 @@
 
 ## What I do 
 ```bash
-- I assist/teach people in their beginning coding journey
+- I assisted/teached people in their beginning coding journey
 - I code my own projects everyday
 - I workout daily
 - I get my beauty sleep (9.5 hours)
