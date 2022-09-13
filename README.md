@@ -3,7 +3,7 @@
 - 📅 Started coding 2019 with Python
 - ➡️ In Summer 2020 I decided to try Web Development and started to learn (HTML, CSS, Javascript, React) at [CodeCademy](https://www.codecademy.com/)
 - ➡️ In January 2021 I started at Digitalents Academy as a intern where I developed my Front end development skills (6 months)
-- ➡️ Just finished working at Digitalents Academy as an assistant teacher. I teached 18-29 age group modern web development
+- ➡️ 2022 at Digitalents Academy as an assistant teacher. I teached 18-29 age group modern web development
 
 ## Skills
 <div>
