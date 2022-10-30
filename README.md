@@ -1,9 +1,11 @@
 # I'm Joa and I like to code React 👋 💙
 
-- 📅 Started coding 2019 with Python
-- ➡️ In Summer 2020 I decided to try Web Development and started to learn (HTML, CSS, Javascript, React) at [CodeCademy](https://www.codecademy.com/)
-- ➡️ In January 2021 I started at Digitalents Academy as a intern where I developed my Front end development skills (6 months)
-- ➡️ 2022 at Digitalents Academy as an assistant teacher. I teached 18-29 age group modern web development
+- I am a Consultant Full Stack Web Developer aka "the full package" @ Vertics Oy 🔥
+- I help clients build and maintain their software. I take care of the backend and also the frontend
+
+## About Me 🔥
+- A new hobby every season... Sometimes jumping on trampolines, climbing walls or lifting weights at the gym
+
 
 ## Skills
 <div>
@@ -32,17 +34,3 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </div>
  </div>
-
-
-## What I do 
-```bash
-- I assisted/teached people in their beginning coding journey
-- I code my own projects everyday
-- I workout daily
-- I get my beauty sleep (9.5 hours)
-```
-
-Im big on self development. I try to be better everyday. I try to understand my mind more and more everyday.
-A good quote from Tony Robbins:
-
-> "I believe life is constantly testing us for our level of commitment, and life's greatest rewards are reserved for those who demonstrate a never-ending commitment to act until they achieve. This level of resolve can move mountains, but it must be constant and consistent."
