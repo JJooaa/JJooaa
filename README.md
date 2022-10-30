@@ -4,8 +4,9 @@
 - I help clients build and maintain their software. I take care of the backend and also the frontend
 
 ## About Me 🔥
-- A new hobby every season... Sometimes jumping on trampolines, climbing walls or lifting weights at the gym
+A new hobby every season... Sometimes jumping on trampolines, climbing walls or lifting weights at the gym
 
+> Learning something new everyday is good. - Joa Leitola 2069
 
 ## Skills
 <div>
