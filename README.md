@@ -1,14 +1,23 @@
-# I'm Joa and I like to code React 👋 💙
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joa
+===========================================================================================================================
 
-- I am a Consultant Full Stack Web Developer aka "the full package" @ Vertics Oy 🔥
-- I help clients build and maintain their software. I take care of the backend and also the frontend
+Full Stack Web Developer
+------------------------
 
-## About Me 🔥
+Why do I keep coding 12 hours a day? I have no clue. Help.
 A new hobby every season... Sometimes jumping on trampolines, climbing walls or lifting weights at the gym
-
 > Learning something new everyday is good. - Joa Leitola 2069
 
-## Skills
+I am a Consultant Full Stack Web Developer aka "the full package" @ Vertics Oy 🔥
+I help clients build and maintain their software. I take care of the backend and also the frontend
+
+* 🌍  I'm based in Helsinki, Finland
+* 🖥️  See my portfolio at [Joa Leitola](http://joaleitola.com)
+* ✉️  You can contact me at [leitola.joa@gmail.com](mailto:leitola.joa@gmail.com)
+* 🚀  I'm currently working on [Autoeurooppa](http://autoeurooppa.com)
+
+### Skills
+
 <div>
   <div>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -35,3 +44,13 @@ A new hobby every season... Sometimes jumping on trampolines, climbing walls or 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </div>
  </div>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/jjooaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joa-leitola-478515212/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/jjooaa"><img src="https://github-readme-stats.vercel.app/api?username=jjooaa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jjooaa's GitHub stats" /></a>
