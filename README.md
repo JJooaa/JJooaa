@@ -14,7 +14,6 @@ I help clients build and maintain their software. I take care of the backend and
 * 🌍  I'm based in Helsinki, Finland
 * 🖥️  See my portfolio at [Joa Leitola](http://joaleitola.com)
 * ✉️  You can contact me at [leitola.joa@gmail.com](mailto:leitola.joa@gmail.com)
-* 🚀  I'm currently working on [Autoeurooppa](http://autoeurooppa.com)
 
 ### Skills
 
