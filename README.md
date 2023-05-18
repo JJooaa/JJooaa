@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 Why do I keep coding 12 hours a day? I have no clue. Help.
 A new hobby every season... Sometimes jumping on trampolines, climbing walls or lifting weights at the gym
-> Learning something new everyday is good. - Joa Leitola 2069
+> Learning something new everyday is good. - Joa Leitola
 
 I am a Consultant Full Stack Web Developer aka "the full package" @ Vertics Oy 🔥
 I help clients build and maintain their software. I take care of the backend and also the frontend
