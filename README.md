@@ -4,12 +4,7 @@ Hi, My name is Joa ![](https://user-images.githubusercontent.com/18350557/176309
 Full Stack Web Developer
 ------------------------
 
-Why do I keep coding 12 hours a day? I have no clue. Help.
-A new hobby every season... Sometimes jumping on trampolines, climbing walls or lifting weights at the gym
-> Learning something new everyday is good. - Joa Leitola
-
 I am a Consultant Full Stack Web Developer aka "the full package" @ Vertics Oy 🔥
-I help clients build and maintain their software. I take care of the backend and also the frontend
 
 * 🌍  I'm based in Helsinki, Finland
 * 🖥️  See my portfolio at [Joa Leitola](http://joaleitola.com)
@@ -50,10 +45,6 @@ I help clients build and maintain their software. I take care of the backend and
     <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
   </div>
  </div>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/jjooaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joa-leitola-478515212/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
